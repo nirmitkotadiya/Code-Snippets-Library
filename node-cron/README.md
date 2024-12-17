@@ -26,23 +26,23 @@ The `node-cron` library allows you to schedule tasks using cron expressions. A c
 
 ## Code Snippet
 
-1. **Every Minute** - This cron job runs every minute.
+**1. Every Minute** - This cron job runs every minute.
 
-````js
+```js
 cron.schedule('* * * * *', () => {
   console.log('Running a task every minute');
 });
+```
 
-
-2. **Every Day at Midnight** - This cron job runs every day at midnight.
+**2. Every Day at Midnight** - This cron job runs every day at midnight.
 
 ```js
 cron.schedule('0 0 * * *', () => {
   console.log('Running a task at midnight');
 });
-````
+```
 
-3. **Every Monday at 9 AM** - This cron job runs every Monday at 9 AM.
+**3. Every Monday at 9 AM** - This cron job runs every Monday at 9 AM.
 
 ```js
 cron.schedule('0 9 * * 1', () => {
@@ -50,7 +50,7 @@ cron.schedule('0 9 * * 1', () => {
 });
 ```
 
-4. **Every 5 Minutes** - This cron job runs every 5 minutes.
+**4. Every 5 Minutes** - This cron job runs every 5 minutes.
 
 ```js
 cron.schedule('*/5 * * * *', () => {
