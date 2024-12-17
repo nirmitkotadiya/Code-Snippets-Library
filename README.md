@@ -2,13 +2,13 @@
 
 ## Overview
 
-Welcome to the **Code-Snippets-Library**, an `open-source collection of useful code snippets` that can help save developers' time and improve productivity. This library contains snippets for a variety of programming languages and technologies. It is designed to be a valuable resource for developers, offering ready-to-use code to solve common tasks and challenges.
+Welcome to the **Code-Snippets-Library**, an open-source collection of useful code snippets that can help save developers' time and improve productivity. This library contains snippets for a variety of programming languages and technologies. It is designed to be a valuable resource for developers, offering ready-to-use code to solve common tasks and challenges.
 
 We encourage you to contribute by adding new snippets, enhancing existing ones, or improving documentation. Together, we can build a comprehensive library to benefit the developer community.
 
 ## Contributing
 
-This repository is `open-source`, and `we welcome contributions`. If you have an important or new snippet that could help save time or improve the efficiency of developers, feel free to contribute! By adding your snippet, you’ll be helping others save time and effort in the future.
+This repository is **open-source**, and **we welcome contributions**. If you have an important or new snippet that could help save time or improve the efficiency of developers, feel free to contribute! By adding your snippet, you’ll be helping others save time and effort in the future.
 
 ### How to Contribute:
 
@@ -25,20 +25,12 @@ By contributing, you're making a valuable impact on the developer community. Let
 
 - **Repository Name**: Code-Snippets-Library
 - **Repository Link**: [GitHub Repository](https://github.com/mkcindia/Code-Snippets-Library)
-<!-- - **Author**: [Your Name](https://www.linkedin.com/in/yourlinkedin)   -->
 - **Author GitHub**: [GitHub](https://github.com/mkcindia)
-- **Project Status**: `In Development`
+- **Project Status**: In Development
 
 ## Snippets Categories
 
 The Code-Snippets-Library is organized into various categories based on programming languages, frameworks, and common use cases. You can browse through the different sections to find the code snippet you need, or contribute by adding new snippets to these categories.
-
-## For Reference
-
-If you would like to refer to other similar open-source repositories or documentation for code snippets, check out:
-
-- [Awesome-Lists](https://github.com/sindresorhus/awesome)
-- [Snippet Collection Repository](https://github.com/yourlink)
 
 ## Acknowledgments
 
@@ -55,7 +47,7 @@ Together, we can make the development process faster, smoother, and more efficie
 - Please ensure that your code snippets are compatible with the target programming language and framework.
 - Please ensure that your code snippets are up-to-date and reflect the latest best practices and standards.
 
-Thank you for your contributions!\
+Thank you for your contributions!
 
 **Happy Coding!**
 
