@@ -9,13 +9,13 @@ You can install `react-toastify` via `npm` or `yarn` :
 ### npm
 
 ```bash
-$ npm install --save react-toastify
+npm install --save react-toastify
 ```
 
 ### yarn
 
 ```bash
-$ yarn add react-toastify
+yarn add react-toastify
 ```
 
 ## Usage
