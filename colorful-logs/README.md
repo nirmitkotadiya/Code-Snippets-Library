@@ -55,6 +55,4 @@ When you run the above example, you will see the following styled outputs in you
 - [Chalk - npm package](https://www.npmjs.com/package/chalk) - Official `chalk` package page on npm.
 - [Node.js Documentation](https://nodejs.org/en/docs/) - Official documentation for Node.js, which is required to run `chalk`.
 
-```
-
-```
+ 
