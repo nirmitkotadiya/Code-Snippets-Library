@@ -52,3 +52,9 @@ Thank you for your contributions!
 **Happy Coding!**
 
 **Keep Learning and Contributing!**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 [mkcindia](https://github.com/mkcindia)
