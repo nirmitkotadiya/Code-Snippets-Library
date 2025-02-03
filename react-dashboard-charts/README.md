@@ -30,6 +30,7 @@ This is a React component library that uses [Chart.js](https://www.chartjs.org/)
    import React from 'react';
    import { Bar, Line, Doughnut } from 'react-chartjs-2';
    import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, PointElement, LineElement, ArcElement } from 'chart.js';
+   import './App.css';
 
    // Register Chart.js components
    ChartJS.register(
