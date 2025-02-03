@@ -204,30 +204,7 @@ You can easily modify the chart data, labels, and options based on your requirem
    };
    ```
 
-3. **Adding More Charts**:
-
-   You can add more chart types (e.g., Radar, PolarArea) by importing them from `react-chartjs-2` and adding the relevant data and options.
-
-   Example for a Radar Chart:
-
-   ```jsx
-   import { Radar } from 'react-chartjs-2';
-
-   const radarChartData = {
-     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-     datasets: [
-       {
-         label: 'Radar Chart Example',
-         data: [5, 10, 15, 20, 25, 30],
-         backgroundColor: 'rgba(255, 99, 132, 0.2)',
-         borderColor: 'rgba(255, 99, 132, 1)',
-         borderWidth: 1,
-       },
-     ],
-   };
-
-   <Radar data={radarChartData} options={chartOptions} />;
-   ```
+  
 
 ## Example Usage
 
