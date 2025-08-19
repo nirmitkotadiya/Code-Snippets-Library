@@ -57,4 +57,4 @@ Thank you for your contributions!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2025 [mkcindia](https://github.com/mkcindia)
+Copyright (c) 2025 [nirmitkotadiya](https://github.com/nirmitkotadiya)
