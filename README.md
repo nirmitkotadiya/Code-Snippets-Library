@@ -24,8 +24,8 @@ By contributing, you're making a valuable impact on the developer community. Let
 ## Repository Details
 
 - **Repository Name**: Code-Snippets-Library
-- **Repository Link**: [GitHub Repository](https://github.com/mkcindia/Code-Snippets-Library)
-- **Author GitHub**: [GitHub](https://github.com/mkcindia)
+- **Repository Link**: [GitHub Repository](https://github.com/nirmitkotadiya/Code-Snippets-Library)
+- **Author GitHub**: [GitHub](https://github.com/nirmitkotadiya)
 - **Project Status**: In Development
 
 ## Snippets Categories
